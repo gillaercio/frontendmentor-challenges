@@ -33,7 +33,7 @@ body {
 }
 
 .main-section-image img {
-    width: 100%;
+    width: 80%;
     margin: auto;
 }
 
@@ -43,6 +43,7 @@ body {
 }
 
 .main-div-title {
+    font-family: 'Poppins', sans-serif;
     font-size: 2.5em;
     color: white;
     padding: 10px;
