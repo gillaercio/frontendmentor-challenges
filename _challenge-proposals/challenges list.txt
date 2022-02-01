@@ -1,1 +1,2 @@
 001 - Huddle landing page with a single introductory section;
+002 - single-price-grid-component-master
